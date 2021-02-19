@@ -1,6 +1,7 @@
 # Livro de receitas 
 
-Ola bem vido ao livro de receitas
+Olá bem vindo ao livro de receitas
 
 - Farofa
-- 
+
+  
